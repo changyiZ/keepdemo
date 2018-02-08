@@ -1,0 +1,3 @@
+include ':application', ':androidwear', ':common', ':socialui'
+include ':domain:trainingapi', ':domain:training', ':domain:social', ':domain:socialapi'
+include ':data:trainingdata', ':data:runningdata'

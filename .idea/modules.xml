@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/androidwear/androidwear.iml" filepath="$PROJECT_DIR$/androidwear/androidwear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keep.iml" filepath="$PROJECT_DIR$/keep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/runningdata/runningdata.iml" filepath="$PROJECT_DIR$/data/runningdata/runningdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/social/social.iml" filepath="$PROJECT_DIR$/domain/social/social.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/socialapi/socialapi.iml" filepath="$PROJECT_DIR$/domain/socialapi/socialapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socialui/socialui.iml" filepath="$PROJECT_DIR$/socialui/socialui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/training/training.iml" filepath="$PROJECT_DIR$/domain/training/training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/trainingapi/trainingapi.iml" filepath="$PROJECT_DIR$/domain/trainingapi/trainingapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/trainingdata/trainingdata.iml" filepath="$PROJECT_DIR$/data/trainingdata/trainingdata.iml" />
+    </modules>
+  </component>
+</project>
